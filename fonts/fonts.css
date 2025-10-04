@@ -18,4 +18,5 @@
 	font-family: './Raleway-Medium', sans-serif;
 	src: url('./Raleway-Medium.ttf') format('ttf');
 	font-weight: 500;
+	font-display: swap;
 }
