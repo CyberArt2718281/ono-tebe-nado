@@ -63,7 +63,7 @@
 	position: relative;
 	padding: 165px 50px 49px 50px;
 
-	background-image: url('../assets/images/main.png');
+	background-image: url('../images/main.png');
 
 	background-position: center;
 	background-size: cover;
@@ -192,17 +192,17 @@
 }
 
 .lots__item:first-child {
-	background: url('../assets/images/lots/image-1.png') center;
+	background: url('../images/image-1.png') center;
 	background-size: cover;
 }
 
 .lots__item:nth-child(2) {
-	background: url('../assets/images/lots/image-2.png') center;
+	background: url('../images/image-2.png') center;
 	background-size: cover;
 }
 
 .lots__item:last-child {
-	background: url('../assets/images/lots/image-3.png') center;
+	background: url('../images/image-3.png') center;
 	background-size: cover;
 }
 
